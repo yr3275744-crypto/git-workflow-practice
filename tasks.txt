@@ -1,0 +1,4 @@
+# Tasks
+- Learn Git branches
+- Practice Pull Requests
+- Master conflict resolution
