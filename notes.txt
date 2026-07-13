@@ -1,0 +1,3 @@
+# Notes
+Remember to write good commit messages
+Remember to write good commit messages
